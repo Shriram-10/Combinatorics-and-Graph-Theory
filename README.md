@@ -26,3 +26,5 @@
 
 ### Graph Connectivity:
 * The program computes both edge connectivity and vertex connectivity of the graph, and determines the K-connectedness of the graph.
+
+By roll nos. 106123135, 106123127, 106123129
